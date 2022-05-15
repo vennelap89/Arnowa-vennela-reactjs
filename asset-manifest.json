@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arnowa-vennela-reactjs/static/css/main.525d0711.css",
+    "main.js": "/Arnowa-vennela-reactjs/static/js/main.80207cf3.js",
+    "static/js/787.42b157f3.chunk.js": "/Arnowa-vennela-reactjs/static/js/787.42b157f3.chunk.js",
+    "index.html": "/Arnowa-vennela-reactjs/index.html",
+    "main.525d0711.css.map": "/Arnowa-vennela-reactjs/static/css/main.525d0711.css.map",
+    "main.80207cf3.js.map": "/Arnowa-vennela-reactjs/static/js/main.80207cf3.js.map",
+    "787.42b157f3.chunk.js.map": "/Arnowa-vennela-reactjs/static/js/787.42b157f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.525d0711.css",
+    "static/js/main.80207cf3.js"
+  ]
+}
